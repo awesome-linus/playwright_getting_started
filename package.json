@@ -1,0 +1,10 @@
+{
+  "name": "playwright_getting_started",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kou <contact@awesome-linus.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "playwright": "^1.9.1"
+  }
+}
